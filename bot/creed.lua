@@ -404,6 +404,26 @@ Watch group settings
 watch group owner
 آیدی سازنده گروه رو میبینید
 
+!echo
+Repeat the message that tell home
+پیامی رو که بگید تکرار میکنه
+
+!setbotphoto
+You can see the robot without getting into your account changes
+میتونید عکس ربات رو بدون واردشدن به اکانت ان عوض کنید
+
+!joke
+View Jack funny
+نمایش جک های خنده دار
+
+!danestani
+Knowledge Maysh beautiful
+نمایش دانستنیهای زیبا
+
+!jomlak
+Including beautiful views
+نمایش جملکـ های زیبا
+
 !setowner user_id
 You can set someone to the group owner‼️
 برای گروه سازنده تعیین میکنید 
