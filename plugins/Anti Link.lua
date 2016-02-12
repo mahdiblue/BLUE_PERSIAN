@@ -10,4 +10,3 @@ return {patterns = {
 "https://",
 "adf.ly"
 }, run = run}
---shared by @teelegram356
